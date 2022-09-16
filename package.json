@@ -1,0 +1,14 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:margunwa123/express-hello-world.git",
+  "author": "margunwa123 <margunwa123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+	"scripts": {
+		"dev": "node app.js"
+	}
+}
